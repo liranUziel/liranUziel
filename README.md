@@ -31,8 +31,8 @@ When I'm not in the terminal, you'll find me:
 
 ### 📫 Connect with me
 * **Email:** [liran.uzi.l@gmail.com](mailto:liran.uzi.l@gmail.com)
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
-* **Portfolio:** [Your Vercel Link Coming Soon!]
+* **LinkedIn:** [https://www.linkedin.com/in/liran-uziel/]
+
 
 ---
 
